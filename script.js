@@ -1,21 +1,18 @@
 const perguntas = [
     {
-        enunciado: " ",
-        alternativas:[
+        enunciado: "pergunta",
+        alternativas: [
             {
-                texto " ",}
-                {afirmação" " }
-                ,
-                 texto:" ", 
-                 afirmação:" "
-                
-            ]
-        }
-        {
-            enunciado: o padrão para todas as perguntas",
-        }
-                
+                texto:"a",
+                afirmação: "afirmacao da letra a"
+            },
+            {
+                texto: "b",
+                afirmação: "afirmacao da letra b"
             }
-        ] 
+        ]
+    },
+    {
+        enunciado: "repete o padrao superior para todas perguntas",
     }
-]                  
+]
